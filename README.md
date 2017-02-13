@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+*References*
+* http://guides.rubyonrails.org/getting_started.html
